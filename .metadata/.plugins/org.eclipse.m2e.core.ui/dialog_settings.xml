@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\SSLTP11229\Desktop\projects\Spring Projects\pdfConversionToExcel"/>
+			<item value="C:\Users\SSLTP11229\Desktop\projects\Spring Projects\Basicloginfrontandback"/>
+			<item value="C:\Users\SSLTP11229\Desktop\Spring Projects\cachingDemo"/>
+			<item value="C:\Users\SSLTP11229\Desktop\HelloWorld"/>
+			<item value="C:\Users\SSLTP11229\Desktop\microservice\product-service"/>
+			<item value="C:\Users\SSLTP11229\Desktop\Spring Projects\pdfGenerate"/>
+			<item value="C:\Users\SSLTP11229\Desktop\pdf"/>
+			<item value="C:\Users\SSLTP11229\Desktop\Springfileupload"/>
+			<item value="C:\Users\SSLTP11229\Desktop\New folder"/>
+			<item value="C:\Users\SSLTP11229\Documents\TraineeEvaluationManagementApplication"/>
+			<item value="C:\Users\SSLTP11229\Desktop\spring-config"/>
+			<item value="C:\Users\SSLTP11229\Desktop\Testing\ATS\ATS_Testing"/>
+			<item value="C:\Users\SSLTP11229\Desktop\hospital-Management"/>
+			<item value="C:\Users\SSLTP11229\Desktop\SpringBoot\AnichamProject"/>
+			<item value="C:\Users\SSLTP11229\Desktop\ATS\ATS_Testing"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\SSLTP11229\Desktop\Spring\TraineeEvaluationManagementApplication"/>
+			<item value="C:\Users\SSLTP11229\Desktop\selenium\Maven"/>
+			<item value="C:\Users\SSLTP11229\Desktop\selenium"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="838"/>
+		<item key="x" value="720"/>
+		<item key="y" value="0"/>
+	</section>
+</section>

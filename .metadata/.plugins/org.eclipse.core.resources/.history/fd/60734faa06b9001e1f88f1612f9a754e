@@ -1,0 +1,77 @@
+package practice;
+
+
+class Animals{
+//	Animals hell() {
+//		return new Animals();
+//		
+//	}
+	
+	int x=10;
+	
+	Animals(){
+		
+		System.out.println("jjj");
+		
+	}
+}
+
+
+class Dogs extends Animals{
+	
+//	Dogs hell() {
+//		return new Dogs();
+//	}
+	
+	Dogs(){
+		System.out.println("ujdfdf"+ ""+  super.x);
+	}
+}
+
+
+
+
+interface Multiple{
+	//int calc(int a, int b);
+	
+	void myMethod();
+}
+
+
+
+public class InputExample  {
+
+	public static void main(String[] args)  {
+		
+		
+		
+		
+		Dogs jj = new Dogs();
+		
+		
+//		Animals dog = new Animals();
+//		Object obj=dog;
+//		System.out.println(obj.toString());
+//		
+		
+		
+		
+//	
+//		Multiple multi = (a,b)->a*b;
+//		System.out.println(multi.calc(40, 70));
+		
+		Multiple multi = ()->{
+			System.out.println("hello");
+		};
+		multi.myMethod();
+		
+		InputExample ex = new InputExample();
+		ex.h(multi);
+		
+	}
+	
+	static void h(Multiple multi) {
+		multi.myMethod();
+	}
+
+}

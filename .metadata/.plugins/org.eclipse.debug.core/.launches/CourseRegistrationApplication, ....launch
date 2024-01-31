@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.testng.eclipse.launchconfig">
+    <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.testng.remote.RemoteTestNG"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="CourseRegistration"/>
+    <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
+    <mapAttribute key="org.testng.eclipse.ALL_CLASS_METHODS"/>
+    <listAttribute key="org.testng.eclipse.CLASS_TEST_LIST">
+        <listEntry value="com.course.Service.StudentCourseService"/>
+        <listEntry value="com.course.Configuration.UserSecurityConfiguration"/>
+        <listEntry value="com.course.Repository.StudentCourseRepository"/>
+        <listEntry value="com.course.Configuration.UserSecurityDetails"/>
+        <listEntry value="com.course.Repository.CourseRepository"/>
+        <listEntry value="com.course.Entity.UserEntity"/>
+        <listEntry value="com.course.Repository.StudentRepository"/>
+        <listEntry value="com.course.Service.UserService"/>
+        <listEntry value="com.course.Entity.CourseEntity"/>
+        <listEntry value="com.course.Repository.UserRepository"/>
+        <listEntry value="com.course.Controller.TabController"/>
+        <listEntry value="com.course.Service.StudentService"/>
+        <listEntry value="com.course.Entity.StudentCourseEntity"/>
+        <listEntry value="com.course.CourseRegistrationApplication"/>
+        <listEntry value="com.course.Controller.StudentController"/>
+        <listEntry value="com.course.Entity.StudentEntity"/>
+        <listEntry value="com.course.Service.CourseService"/>
+        <listEntry value="com.course.Controller.CourseController"/>
+    </listAttribute>
+    <listAttribute key="org.testng.eclipse.METHOD_TEST_LIST"/>
+    <listAttribute key="org.testng.eclipse.PACKAGE_TEST_LIST"/>
+    <stringAttribute key="org.testng.eclipse.PRE_DEFINED_LISTENERS" value=""/>
+    <intAttribute key="org.testng.eclipse.TYPE" value="1"/>
+</launchConfiguration>

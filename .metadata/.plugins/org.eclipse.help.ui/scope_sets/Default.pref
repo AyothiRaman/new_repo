@@ -1,0 +1,5 @@
+#Fri Sep 01 10:40:14 IST 2023
+__DEFAULT__=true
+org.eclipse.help.ui.localSearch.master=true
+org.eclipse.sdk.Eclipse.master=true
+org.eclipse.sdk.Google.master=true

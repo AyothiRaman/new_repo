@@ -1,0 +1,78 @@
+package developersKnow;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.Iterator;
+import java.util.List;
+
+import practice.Collection;
+
+class Person 
+//implements Comparable<Person>
+{
+	
+	int age ;
+	String name ;
+	int id;
+	
+	public Person(int age, String name,int id) {
+		
+		this.age = age;
+		this.name = name;
+		this.id=id;
+	}
+
+	@Override
+	public String toString() {
+		return "Person [age=" + age + ", name=" + name + ", id=" + id + "]";
+	}
+	
+
+
+//	@Override
+//	public int compareTo(Person o) {
+//
+//		if(this.age<o.age) {
+//			
+//			return 1;
+//		}else {
+//			return -1;
+//		}
+//	}
+	
+	
+}
+public class ComparableDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Comparator<Person> comparator=new Comparator<Person>() {
+			
+			@Override
+			public int compare(Person o1, Person o2) {
+				if(o1.id>o2.id) {
+					return 1;
+				}
+				else {
+					
+					return -1;
+				}
+			}
+		};
+		
+		List<Person> n =new ArrayList<>();
+		n.add( new Person(1, "ayothi",10800));
+		n.add( new Person(16, "ganesh",10783));
+		n.add( new Person(7, "ganesh babu",10758));
+		
+		Collections.sort(n,comparator);
+		
+		System.out.println(n);
+		//System.out.print( Collections.sort(n));
+
+	}
+
+}

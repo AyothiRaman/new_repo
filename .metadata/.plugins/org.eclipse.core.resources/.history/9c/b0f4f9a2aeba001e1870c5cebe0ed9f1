@@ -1,0 +1,29 @@
+package com.basicDemo.controller;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.basicDemo.entity.Student;
+
+public class ContClass {
+	
+	public void data() {
+		
+		
+		List<Student > list = new ArrayList<>();
+		list.add(new Student("sara", 90, 330));
+		list.add(new Student("mara", 90, 330));
+
+		list.add(new Student("bora", 90, 330));
+		
+		for(int i=0;i<list.size();i++) {
+			System.out.println(list.get(i));
+		}
+		
+		
+
+		
+	}
+	
+
+}

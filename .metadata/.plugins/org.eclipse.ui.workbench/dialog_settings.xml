@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+			<item value="org.eclipse.jpt.jaxb"/>
+			<item value="org.testng.eclipse"/>
+		</list>
+	</section>
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.m2e.core.wizards.Maven2ImportWizard"/>
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.m2e"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jdt.ui.Java"/>
+		</list>
+	</section>
+	<section name="FileSystemExportWizard">
+		<item key="WizardFileSystemResourceExportPage1.STORE_OVERWRITE_EXISTING_FILES_ID" value="false"/>
+		<item key="WizardFileSystemResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="false"/>
+		<item key="WizardFileSystemResourceExportPage1.STORE_RESOLVE_LINKED_RESOURCES_ID" value="false"/>
+		<list key="WizardFileSystemResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\SSLTP11229\Documents"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\SSLTP11229\Desktop\pdf.zip"/>
+			<item value="C:\Users\SSLTP11229\Desktop\springScheduler.zip"/>
+			<item value="C:\Users\SSLTP11229\Desktop\bankManagement.zip"/>
+			<item value="C:\Users\SSLTP11229\Desktop\oneTOmany.zip"/>
+			<item value="C:\Users\SSLTP11229\Desktop\Interceptor.zip"/>
+			<item value="C:\Users\SSLTP11229\Desktop\Swagger.zip"/>
+			<item value="C:\Users\SSLTP11229\Desktop\Hospital_Management.zip"/>
+			<item value="C:\Users\SSLTP11229\Desktop\ATS_Testing.zip"/>
+			<item value="C:\Users\SSLTP11229\Desktop\workday meeting\Hospital-Management.zip"/>
+			<item value="C:\Users\SSLTP11229\Desktop\MappingReact\Ats.zip"/>
+			<item value="C:\Users\SSLTP11229\Desktop\New folder\ManyToManyMapping.zip"/>
+			<item value="C:\Users\SSLTP11229\Desktop\New folder\OneToManyMapping.zip"/>
+			<item value="C:\Users\SSLTP11229\Desktop\New folder\OneToOneMapping.zip"/>
+			<item value="C:\Users\SSLTP11229\Desktop\hey\hello.zip"/>
+			<item value="C:\Users\SSLTP11229\Desktop\project.zip"/>
+			<item value="C:\Users\SSLTP11229\Desktop\fire\project.zip"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_WIDTH" value="750"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_HEIGHT" value="844"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_SIZE" value="true"/>
+		<item key="org.eclipse.ui.internal.quickaccess.QuickAccessDialogDIALOG_USE_PERSISTED_LOCATION" value="false"/>
+		<list key="orderedElements">
+			<item value="org.eclipse.jdt.junit.ResultView"/>
+		</list>
+		<list key="orderedProviders">
+			<item value="org.eclipse.e4.ui.parts"/>
+		</list>
+		<list key="textEntries">
+			<item value="1"/>
+		</list>
+		<list key="textArray">
+			<item value="ju"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.preferences.keysPreferencePage">
+	</section>
+</section>

@@ -1,0 +1,27 @@
+package practice;
+
+
+interface Multiple{
+	
+	//Integer calc(int a, int b);
+	
+	void  str();
+}
+
+
+
+public class InputExample  {
+
+	public static void main(String[] args)  {
+		
+	
+//		Multiple multi = (a,b)->a*b;
+//		System.out.println(multi.calc(40, 70));
+		
+		Multiple multi = ()->
+		
+		System.out.println();
+		
+	}
+
+}

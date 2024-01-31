@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;ContClass.java&apos; to &apos;controller&apos;" description="Move &apos;ContClass.java&apos; to &apos;controller&apos;" destination="src/main/java/com/basicDemo/controller" element1="src/main/java/com/basicDemo/entity/ContClass.java" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1706096842854" updateReferences="true"/>
+</session>

@@ -1,0 +1,39 @@
+package practice;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+class Ani {
+
+	public static void dog() {
+		List<String> hh = Arrays.asList("hhh", "mm", "kk");
+
+		
+		//hh.add("kk");
+		
+		for(int i=0;i<hh.size();i++) {
+			System.out.println(hh.get(i));
+		}
+		
+		//System.out.println(hh.contains("jj"));
+		
+		
+
+		
+
+	}
+}
+
+public class InterfaceWithMethodReference {
+
+	public static void main(String[] args) {
+		
+		//Ani.dog();
+		
+		List<String> kk = new ArrayList<>();
+
+		kk.forEach(s->Ani.dog());
+	}
+
+}

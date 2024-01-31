@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.testng.eclipse.launchconfig">
+    <stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="org.testng.remote.RemoteTestNG"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="hospital-Management"/>
+    <stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
+    <mapAttribute key="org.testng.eclipse.ALL_CLASS_METHODS"/>
+    <listAttribute key="org.testng.eclipse.CLASS_TEST_LIST">
+        <listEntry value="com.hospitalDetails.controller.DoctorController"/>
+        <listEntry value="com.hospitalDetails.service.CollectedSampleService"/>
+        <listEntry value="com.hospitalDetails.repository.DoctorRepository"/>
+        <listEntry value="com.hospitalDetails.repository.PatientRepository"/>
+        <listEntry value="com.hospitalDetails.service.DoctorService"/>
+        <listEntry value="com.hospitalDetails.service.PatientService"/>
+        <listEntry value="com.hospitalDetails.controller.PatientController"/>
+        <listEntry value="com.hospitalDetails.entity.CollectedSamplesDetails"/>
+        <listEntry value="com.hospitalDetails.entity.DoctorDetails"/>
+        <listEntry value="com.hospitalDetails.controller.OrderCreationController"/>
+        <listEntry value="com.hospitalDetails.service.OrderCreationService"/>
+        <listEntry value="com.hospitalDetails.HospitalManagementApplication"/>
+        <listEntry value="com.hospitalDetails.entity.OrderCreationEntity"/>
+        <listEntry value="com.hospitalDetails.entity.PatientDetails"/>
+        <listEntry value="com.hospitalDetails.repository.CollectedSampleRepository"/>
+        <listEntry value="com.hospitalDetails.repository.OrderCreationRepository"/>
+        <listEntry value="com.hospitalDetails.controller.CollectedSampleController"/>
+    </listAttribute>
+    <listAttribute key="org.testng.eclipse.METHOD_TEST_LIST"/>
+    <listAttribute key="org.testng.eclipse.PACKAGE_TEST_LIST"/>
+    <stringAttribute key="org.testng.eclipse.PRE_DEFINED_LISTENERS" value=""/>
+    <intAttribute key="org.testng.eclipse.TYPE" value="1"/>
+</launchConfiguration>

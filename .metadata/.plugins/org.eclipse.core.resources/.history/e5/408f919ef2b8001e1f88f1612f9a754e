@@ -1,0 +1,27 @@
+package practice;
+
+
+interface Multiple{
+	
+	void calc(int a, int b);
+}
+
+
+
+public class InputExample  {
+
+	public static void main(String[] args)  {
+		
+		InputExample example = new InputExample();
+		example.hell(null);
+		
+		
+	}
+	
+	
+	static void hell(Multiple mul) {
+		 mul.calc(69, 90);
+		
+	}
+
+}

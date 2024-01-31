@@ -1,0 +1,42 @@
+package practice;
+
+
+ abstract class HelloWorld{
+	 abstract void draw();
+	
+}
+ 
+ class New extends HelloWorld{
+
+	@Override
+	void draw() {
+System.out.println("hey ");		
+	}
+	 
+ }
+ 
+ class News extends HelloWorld{
+
+	@Override
+	void draw() {
+
+		System.out.println("jjj");
+	}
+	 
+ }
+
+
+public class Vector {
+
+	public static void main(String[] args) {
+		
+		HelloWorld h = new News() ;
+		h.draw();
+			
+			
+		
+		
+		
+	}
+
+}

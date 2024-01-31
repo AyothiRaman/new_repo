@@ -1,0 +1,17 @@
+package practice;
+
+import java.util.Scanner;
+
+public class Module {
+
+	public static void main(String[] args) {
+		System.out.println("ayothi");
+		
+		Scanner scaan = new Scanner(System.in);
+		System.out.println("enter your name");
+		String name = scaan.next();
+		System.out.println("your name:"+name);
+
+	}
+
+}

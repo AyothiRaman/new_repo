@@ -1,0 +1,44 @@
+package practice;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
+
+
+interface Anim{
+	static void hello() {
+		System.out.println("this is hello method");
+	}
+	
+	void king();
+}
+
+
+class Ani {
+
+	public static void dog() {
+		
+		List<String> names = Arrays.asList("Alice", "bob", "Charlie");
+		List<String> uppercaseNames = names.stream()
+		        .map(String::toUpperCase) // Method reference to String::toUpperCase
+		        .collect(Collectors.toList());
+		
+		
+
+		
+
+	}
+}
+
+public class InterfaceWithMethodReference {
+
+	public static void main(String[] args) {
+		
+		Anim nn = Anim::hello;
+		nn.king();
+		
+		
+	}
+
+}

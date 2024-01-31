@@ -1,0 +1,27 @@
+package practice;
+
+import java.util.Scanner;
+
+public class Module {
+
+	public static void main(String[] args) {
+		System.out.println("ayothi");
+		
+		Scanner scaan = new Scanner(System.in);
+		System.out.println("enter your name");
+		String name = scaan.next();
+		System.out.println("your name:"+name);
+		
+		// array is a collection of variables
+		
+		int a[] = new int[10];
+		a[0]=1;
+		System.out.println(a);
+		
+		for(int i=0;i<a.length;i++) {
+			System.out.println(a);
+		}
+
+	}
+
+}

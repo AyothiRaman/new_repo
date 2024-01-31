@@ -1,0 +1,40 @@
+package com.basicDemo;
+
+import org.springframework.boot.CommandLineRunner;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ConfigurableApplicationContext;
+
+@SpringBootApplication
+public class NewBasicApplication implements CommandLineRunner{
+
+ 
+	 
+	public static void main(String[] args) {
+		 ConfigurableApplicationContext context=
+				 SpringApplication.run(NewBasicApplication.class, args);
+		 
+		
+		 
+		 ClassA a = context.getBean(ClassA.class);
+		 a.display();
+		 
+		 
+		  
+		 
+		 
+//		 ClassB b = new ClassB();
+//		 b.run();
+		 
+		// context.getBean(ClassA.class);
+		 //context.getBean(ClassB.class);
+	}
+
+	@Override
+	public void run(String... args) throws Exception {
+
+
+		
+	}
+
+}

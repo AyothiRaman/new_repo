@@ -1,0 +1,8 @@
+Account SID:
+AC6c7a6471514e6bc88ada2e3d583af7e4
+
+Auth Token:
+e73cfda47c948422555c99ff89b512b0
+
+Phone Number:
++16185168352

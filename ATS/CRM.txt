@@ -1,0 +1,5 @@
+Application Architecture -> Monolithic to MicroServices
+
+DashBoard Module -> Splits into to list UserList,Data Range List
+
+Getting userData by UserId(String) -> Input Type will be Path Variable

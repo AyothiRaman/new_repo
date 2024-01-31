@@ -1,0 +1,36 @@
+MANAGE EMPLOYEE:
+================
+1)Page URL is wrong.
+2)Bread crumbs is wrong.
+3)Sorting icon (up and Down Arrow)  missing in Employee id and Designation(Role).
+4)the magnifying glass icon disappear when we click text field
+(but we must give 2 char then only it can be replaced by X icon)
+5)Search icon is not working, it does not search numbers,chars and letters.
+6)Employee id accepts more than 9 alphanumeric characters.
+7)There is no action bar present in Employee id's hyperlink page.
+8)Designation should be replaced as Role.
+9)There is no sorting icon and no action for Lead.
+10)There is no sorting icon and no action for Email.
+11)There is no sorting icon and no action for Joining date.
+12)There is no sorting icon and no action for Registered Date.
+13)There is no sorting icon and no action for updated on.
+
+
+ADD EMPLOYEE:
+=============
+1)Do not know what is field height and width.
+2)Field outline should be placed below the title/header of the particular field.   ?XXXX
+3)There is no mandatory field.
+4)If Role is Team lead reports to is not visible to Reporting Manager, entirely different name is present.
+5)Job Role place holder is Select but Select an option is present.
+6)Status place holder is Select but Select an option is present.
+7)Location place holder is Select but Select an option is present.
+8)Numbers Allowed in First and Last Name.
+9)In "Date of Hire" 'h' letter is in LowerCase.
+10)Address line 1 accepts all Special Charaters. 
+11)Address line 1 accepts all Special Charaters. 
+12)City and Pincode mandatory.
+13)Aadhar didn't Accepts space between every 4 char.
+14)There is no Auto Welcome Email.
+15)Cancellation pop-up ESC button not works.
+16)City doesnot Auto sugesting the previous city in the List.

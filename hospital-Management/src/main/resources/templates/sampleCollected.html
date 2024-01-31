@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" xmls:th="http://thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+<title>Student Registration form</title>
+<link rel="stylesheet"
+	href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css"
+	integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+	crossorigin="anonymous">
+
+</head>
+<body>
+	<div class="container">
+
+
+
+		<h1>Student List</h1>
+
+		<a th:href="@{/}" class="btn btn-dark"> Back </a> <a
+			th:href="@{/add new student}" class="btn btn-dark"> Add New
+			Student </a>
+		<table border="1" class="table table-striped">
+
+			<tr>
+				<th>ID</th>
+				<th>Date</th>
+				<th>Patient Name</th>
+				<th>Test Details</th>
+
+
+
+			</tr>
+
+			<tr th:each="sample :${SampleList}">
+				<td th:text="${sample.id}"></td>
+				<td th:text="${sample.collected_date}"></td>
+				<td th:text="${sample.patient_details}"></td>
+				<td th:text="${sample.test_name}"></td>
+
+
+
+			</tr>
+		</table>
+	</div>
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,26 @@
+1) URL is not Correct for Demand Listing Page
+
+2) Breadcrumb positioning Mockup is not correct(Dashboard / demand / managedemands
+)
+
+3) Manage Demands function is not working
+
+3) Search Function is not working
+
+4) Search Box the placeholder "Search Demand" is not available
+
+5) The column name of Received Date is wrong(Recieved)
+
+6) Instead of Total Experience there is Min.Experience
+
+7) Client Field should be in drop down list
+
+8) Primary Skill Experience data format is wrong
+
+9) Secondary Skill Experience data format is wrong
+
+10) Submission List is missing in the action bar
+
+11) Scrolling is not present in Business Card
+
+13) The logo of near search box is not correct

@@ -1,0 +1,28 @@
+https://sight-spectrum-ats.vercel.app/
+
+
+1) Login button should be in proper size(based on reqirement) *
+
+2) Remember me(Radio button) is not presnet *
+
+3) Reset Password should be named as forget password 
+
+4) No label name (include userID)
+
+5) placeholder should be in Enter your UserID instead of Email
+
+6) logo should be change in userId and password
+
+7) Hovers over function is not present for userId and password
+
+8) placeholder for password is should be Enter your password
+
+9) Reset Password function is not working
+
+10)incorrect password or userid Text should be top of user id Text Field 
+   and font must be bigger then it appear and color of
+   font must change to flouresent Red.
+
+11)Text field Logo for username and password Alignment should be in leftside.
+
+12)Password symbol is completely different in requirements.  

@@ -1,0 +1,6 @@
+Suggestions
+============
+
+1) Password can be copy Pasted --> need to change
+
+2) Once Logged In Cursor should be present automatically in UserName

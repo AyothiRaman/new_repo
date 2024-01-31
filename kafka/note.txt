@@ -1,0 +1,27 @@
+stept-1 for initial setup after download kafka file
+step 2- .\bin\zookeeper-server-start.bat config\zookeeper.properties
+step 3- .\bin\windows\kafka-server-start.bat config\server.properties
+
+step4 to create a topic
+.\bin\windows\kafka-topics.bat --create --topic quickstart-events --bootstrap-server localhost:9092
+
+step 5: TO create an event
+.\bin\windows\kafka-console-producer.bat --topic quickstart-events --bootstrap-server localhost:9092
+
+to enter the events
+======================
+>hello word
+>kafka event example
+>demo 1
+>demo 2
+
+then press ctrl+c to exit
+
+we need to read the kafka events what we created in kafka events
+
+
+coding
+========
+create kafka topic
+
+create kafka producer

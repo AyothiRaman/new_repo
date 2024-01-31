@@ -1,0 +1,64 @@
+
+		
+{
+    "name": "uuu",
+    "email": "hello",
+    "userProfile":{
+        "phoneNumber":1234,
+        "address":"banglr",
+        "gender":"MALE"
+
+
+    }
+   }
+   
+ one to many
+=============
+
+{
+    
+        "title":"image",
+        "description":"insta",
+        
+        "comments":[
+            {
+                "text":"good"
+                
+            },
+            {
+                "text":"attractive"
+            }
+           
+        ]
+    }
+    
+many to manY
+=============
+
+{
+    
+        "title":"image",
+        "description":"insta",
+        "content":"good one",
+
+        
+        
+        "tags":[
+            {
+                "name":"good"
+                
+            },
+            {
+                "name":"fine"
+            }
+           
+           
+      ]
+    }
+    
+
+   
+   
+
+   
+   

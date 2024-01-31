@@ -1,0 +1,42 @@
+Requirements Given
+===================
+
+1) Login Page
+
+2) Add Demand
+
+3) Employee Listing
+
+4) Submission Listing
+
+5) Candidate Listing
+
+6) Add Candidate
+
+7) Add Employee
+
+8) Add Submission --> Not Available
+
+9) Demand Listing
+
+
+
+Not Working function
+=====================
+
+Demand
+-------
+Add Demand
+My Demands
+Demands Status
+
+Submission Report
+-----------------
+
+Add Submission
+Track Submission
+
+Candidate Library
+-----------------
+
+Add Candidate

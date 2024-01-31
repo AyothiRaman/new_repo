@@ -1,0 +1,29 @@
+1)The page URL should be /CandidateListing
+
+2) In Breadcrumb CandidateListing is Missing
+
+3) Search Function is not Working
+
+4) “Search Candidate “ is missing in the Placeholder of Search Box
+
+5) Prefered Location Column name is Wrong ->Expected(Preferred Location)
+
+6) Email ID column name is Wrong -> Actual(Email)
+
+7) Other Skills Column Should be change to (Other Skill) 
+
+8) Resume Column name should be change to Resume Link.(take in figma details)
+
+9) Candidate ID ,Candidate Name ,Date of Sourcing  should be in proper format
+
+10) In Action bar View Submission is Missing
+
+11) In view/Edit page Edit Candidate function is not working
+
+12) Business Card scroll is missing
+
+13) Search Icon is Mismatched
+
+14) Primary Skill Experience and Secondary Skill Experience should be in proper format
+
+15) Mobile Number Column should be in Mobile

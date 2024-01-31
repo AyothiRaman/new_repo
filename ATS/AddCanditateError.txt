@@ -1,0 +1,44 @@
+1) Expected CTC TextField Character is applicable  Instead of Numerical 
+
+2) Preferred Mode of Hire(expected), Prefered Mode of Hire(Actual) , Preferred name is wrong
+
+3) FirstName TextField Numerical is applicable Instead of  "alphabetical characters"
+
+4) LastName TextField Numerical is applicable Instead of  "alphabetical characters"
+
+5) State TextField Numerical is applicable Instead of  "alphabetical characters"
+
+6) PinCode TextField have More than six digits,it starts with zero, after one white space we did not type any numbers
+
+7) Placeholder is Missing for City Textfield and DropDown list is not available
+
+8) DropDown list is not available for Companyname field
+
+9) DropDown list is not available for Job Skills
+
+10) DropDown list is not available for Job Role
+
+11) suggestion -> CTC there is text field , accepts both char and numerical
+
+12) C2H payroll  Numerical is applicable Instead of  "alphabetical characters"
+
+13) placeholder is not correct for SkillSet
+
+14) Relevant Skill Experience  instead of(Numerical Value) both num and char is present
+
+15) instead of (Relevant Skill Experience) there is (Realavent Skill Enperience)
+
+16) Current Location TextField Numerical is applicable Instead of  "alphabetical characters"
+
+17) Willing to relocate (R) should be in caps
+
+18) (Prefered Location ) words are mismatched in Prefered -> Actual (Preferred Location 1) , type should be in drop down
+
+19) The Field Header for Email ID is wrong Actual -> (Email Address)
+
+20) Skill Set Special char applicable more than this (@#&<>,.+_-:;””?=) like  $*%
+
+21) Cancellation Popup box is not Correct
+
+
+

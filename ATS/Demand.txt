@@ -1,0 +1,21 @@
+1) Enter the Job Requirement Title in Italic --> should be change
+
+2) unassigned Drop-Down Option is not Visible --> u should be in caps
+
+3) Status Placeholder should be in Select --> Instead of Select an option
+
+4) No of Positions placeholder in not Present --> should be Enter the count
+
+5) priority drop-down box is not visible and drop-down name will be in --> Select
+
+6) client c should be in Caps & text box is not visible & placeholder wii be in --> Enter client name
+
+7) Enter the Job Requirement Title,DEMAND INFORMATION,JOB DESCRIPTION,SKILL SET required field * is missing
+
+8) Priority drop-down list box , after Medium (and) is Not present
+
+9) JOB DESCRIPTION placeholder there in min Instead of Minimum
+
+10) ADDITIONAL INFORMATION should be change to ADDITIONAL DETAILS
+
+11) Placeholder for ADDITIONAL DETAILS should be in Click to add additional details
